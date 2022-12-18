@@ -1,7 +1,7 @@
 <h1>Tindog</h1>
 
-<p>Landing Page de uma start up com utilização do BootStrap </p>
-<p>Link da página <a href="https://danieldosanjosveleda.github.io/tindog/">aqui</a></p>
+<p>Landing Page de uma start up, com utilização do BootStrap para a criação da barra de navegação e carrosel. </p>
+<p>Link da página <a href="https://danieldosanjosveleda.github.io/tindog/">aqui.</a></p>
 
 <h2>Tecnologias utilizadas</h2>
 
